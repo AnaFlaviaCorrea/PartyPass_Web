@@ -72,7 +72,7 @@ Contribuições são bem-vindas! Se você encontrar problemas, tiver sugestões 
 # Contato
 Se tiver alguma dúvida ou precisar entrar em contato, você pode me encontrar nas seguintes plataformas:
 
-LinkedIn: seu perfil do LinkedIn
+LinkedIn: http://www.linkedin.com/in/anaflaviafreitascorrea
 Email: anaflaviadefreirascorreal@gmail.com
 
 Aproveite o projeto Party Pass Web! Divirta-se gerenciando eventos e festas com facilidade. 🎉
