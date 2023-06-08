@@ -36,6 +36,44 @@ JavaScript: Linguagem de programação utilizada para adicionar interatividade e
 # Como Executar o Projeto
 Para executar o projeto Party Pass Web em seu ambiente local, siga as etapas abaixo:
 
-Certifique-se de ter o Python instalado em seu computador. Você pode baixar o Python em https://www.python.org/downloads/.
+1- Certifique-se de ter o Python instalado em seu computador. Você pode baixar o Python em https://www.python.org/downloads/.
 
-Clone este repositório para o seu computador usando o seguinte comando:
+2- Clone este repositório para o seu computador usando o seguinte comando:
+git clone https://github.com/SeuUsuario/PartyPass_Web.git
+
+3- Acesse o diretório do projeto:
+cd PartyPass_Web
+
+4- Crie um ambiente virtual para isolar as dependências do projeto:
+python -m venv env
+
+5- Ative o ambiente virtual:
+
+No Windows:
+env\Scripts\activate
+No Linux/Mac:
+source env/bin/activate
+
+6- Instale as dependências do projeto:
+pip install -r requirements.txt
+
+7- Execute as migrações do banco de dados:
+python manage.py migrate
+
+8- Inicie o servidor de desenvolvimento:
+python manage.py runserver
+
+9- Acesse o projeto em seu navegador em http://localhost:8000/.
+
+Agora você está pronto para explorar e utilizar o sistema Party Pass Web!
+# Contribuição
+Contribuições são bem-vindas! Se você encontrar problemas, tiver sugestões ou desejar adicionar novos recursos, sinta-se à vontade para abrir uma issue ou enviar um pull request.
+
+# Contato
+Se tiver alguma dúvida ou precisar entrar em contato, você pode me encontrar nas seguintes plataformas:
+
+LinkedIn: seu perfil do LinkedIn
+Email: anaflaviadefreirascorreal@gmail.com
+
+Aproveite o projeto Party Pass Web! Divirta-se gerenciando eventos e festas com facilidade. 🎉
+
