@@ -1,5 +1,6 @@
 # Party Pass Web - Django Project
 Este é o repositório do projeto Party Pass versão web, desenvolvido com Django, Python, HTML, CSS e JavaScript. O projeto consiste em um sistema para gerenciamento de clientes, produtos, comandas e consumo em eventos e festas.
+Realizado em collab para trabalho de conclusão da disciplina Desenvolvimento para Web
 
 # Funcionalidades
 O projeto Party Pass Web possui as seguintes funcionalidades:
